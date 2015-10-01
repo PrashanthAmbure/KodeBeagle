@@ -23,10 +23,13 @@ This is a chrome browser extension, which helps users to search for code snippet
 
 ## Using the chrome extension
 Once the extension has been installed, it's time for us to make use of this extension.
+
 1. Select either a collection of code phrases or a word on the browser windown and right click, upon doing this we should see a context menu saying _**"Search this selection on KodeBeagle"**_
-![](https://lh3.googleusercontent.com/V89SJiQtpaTXQWyJ9Rm_agHNdFkazzcotnuXRPUdkWXPFaW3-42a9CiTVubekaxPmsEDewLyzHqkKeDzoNn0GyZ7YM0HM1wlZdubKMUYmgGxZ2JIXVXjhpAQ57Lz-gSrxnE8Xo6UxCRzKnodC6BZ3wdu7AGDyIBRKcGEqrJCTc-tMYV2AH6poxDMerDbJ5wToB4nESKozzYduiSh9xKIMaezxG2gTK1RAFgGj_pjnyqZhqmGTVrfhQbko6QxWkF6_D4Ezqie-bFo47bqqkhnbYA6B9BD8SxQmaItO06buIQOmXP_Jh7oPF6Ox-v2K2vUF2VZHKfBKdEjSfHcafcbjIePUmAVIHNGsXjcOZtMhv5MpWgmqKK71-eljUioCrTt1IJgKtQjqMSZrx9ybSN_5QVfx5f5teX2MF597LdTnmCxekeduG2sfRdTn05-nIRu99irrw3LJCRw-g2_TTbk8dCSGmIrrAIh7M6DfU0eaM_tbZeiWCgQ632y-TkhChz7_0E3YQPYdo6PMuNfNZavv8CGvvhqdQmB8HUCBplR13s=w1212-h681-no)
+
+![](https://lh3.googleusercontent.com/VIVI2nE10YGgJsKiCY-Ac_5BI9K9ikomSbZ325Q_yLpfKpRulQtB_WLOvXx7D2hhVyzNLD1yRlEvs3RnY9dBhlJLtj8XryOacUSQwTofiqTwZ7JLNgKo4-BVt-JdviAOmLFNitOOnDKjFtviM37DQmYUCcXpYdHwqFn1NlV23ugqxrfP6zSb8hXoDA1Kot2wM2B0yhEfGG58eS49bqyAvkFb238loIVGgsXbQuhY-eoNsOOu0L9OZhstx2Y217x9f8IsQDcTevC3R0pM5Lq-h5L2moi9V6r2L4LF6iYLP0PhLhG5YEdFiSvUueaUwZa2tD4PuPbdr1th5sPTlX-FxNALQXug9IShzjnIW6_5zZSZB5ImDEUxwt1v0Furoe1N52TGyH_KLe0gJccxWpZNV-yG9wFX0PdEYQpfqPtGhmfM8Z1bc2-z577YWiD561JFT4GNqdDEddrkaI1g4L5mVvO-tK7kxpiBqIbpln9wIXYUqfXLb9KaMrv6qKBJ_6FTVIxl8em9qLA9S6m-_rLe69yxYUn_j30F_2wiGE_lCdE=w1354-h447-no)
 2. And a new tab opens up which lists out the code snippets for the selection from various repositories.
-![](https://lh3.googleusercontent.com/4X1FU__N4IXffIn6SH1eOxtdpc-HxdipeisWmeknfm0jpIBH0tefnmYVVS6A3K6KGj6KAoxpYNkpBKd4dJocqy3mmak05mLHUIlxB7iZ598iPTpi6kst-bavYfWTbl9-KtFI-n3adytOP0R1Ofko5iRKHfxVLBhktPAqboApkq2bsmUpm8b2zs12MkmiF_adgGbWX6wYLWXQwMyCMsVh9O5GiqVZqhYEULdnVxA5YKczr8JpyWKkJU2AjCwsRbg08sgrzmB1Vw4r-tgiftSKt-vSeYMZ4G_673Na9jgEBC-LWvRYzFH7_Dxq0jWZVOOGAKekgHONCK26-MRUBlZx86K910_gktnNy67LzaKKToqRhZ6HkbzK02qoXhGQCAA5SVVTfZnnzuhn2yXiekzR6DgfH29cc_0MXlGrzpsZWMaugipj8JKYngYHIptVzYlM3igPnFECRXH6guWKORy-z6OnVEv23ZlqBfPMtnmTJy3BuiZ01ZM-wbXfZ9Dy5inLzOohaELLCbdTheurbpFsGc0lG8fgzl5DRockuvmRO_c=w1212-h681-no)
+
+![](https://lh3.googleusercontent.com/fF8uuEASxzulF94sLk8uhNVpvkaQUIBD-GdxPgucC-5smOSWh25oCPeNpMlVymgPZeudRTAz-G7bDbQ_4OSySTbwOKeNKIJ7mrvJXWsMZenitsiHvoYSBl69h85mRd3933AgR51QB2Rskj1yTPruiJe7i1a3IyEo68ASW5czsKfWYv1kta3xgURh098fYk8lfCXU140ye1Jb7vcLAsKJZK272RJEXiMDQjq8qHHlhk5fq-GQ2l1OT4-3e3YX1wjd1OckLK8-QZvUQzrsd0BIQaHbPaQ-O_Ry4q6hBERcx32OXi1sMzx_8RmxRDLOVzBqMrFp18nX-RUYy6rFKwAt0qTBZnnn4BVl7tZ3s2fCZwF0qzTSZi86FCcLjrRrgVijWt1_NCquhuuzBV-DsLr5Hgbdd4zfR_tqJpKtw1eZ_z-Ln7_LqpdO9ZKlpsPHfkt2H94jIY16G6mypV1g6o12QDdQrKk3cE396T3p2m3FAiwqjuS0Ki90oA1hbOP-hs4HxWeDu6J2wioj7mD1RMifKoBN-sJTthBDSazXpWbKzDI=w1227-h655-no)
 
 ## Developer notes
 ### Requirements
@@ -43,9 +46,9 @@ Once the extension has been installed, it's time for us to make use of this exte
 
 ### Packaging extension.
 > This section is relevant only for the following three reasons...              
-> #1 - Either the crx file is not available on the Github,   
-> #2 - Or we would like to update the extension,     
-> #3 - Or upload the extension to the chrome web store  
+> 1 - Either the crx file is not available on the Github,   
+> 2 - Or we would like to update the extension,     
+> 3 - Or upload the extension to the chrome web store  
 > **Note:** For #2 and #3 we will be using the same pem file.
 
 Once the extension code gets stable, its time to create the .crx file which can be published to chrome extension factory for public use. Please note that chrome extensions are packaged as signed zip files with the file extension as _"crx"_.
