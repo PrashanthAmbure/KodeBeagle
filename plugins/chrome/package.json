@@ -1,7 +1,7 @@
 {
   "name": "KodeBeagle",
   "version": "0.1.1",
-  "description": "KodeBeagle Chrome extension. An extension that makes searching selected piece of java code easily searcheable on KodeBeagle.",
+  "description": "Quick access to code samples(in Java) from GitHub by searching on kodebeagle.com",
   "main": "background.js",
   "devDependencies": {
     "gulp": "^3.9.0",
@@ -20,5 +20,5 @@
       }
   ],
   "private": true,
-  "license": "MIT"
+  "license": "Apache 2.0"
 }

@@ -1,7 +1,7 @@
 {
 	"manifest_version":	2,
 	"name":	"KodeBeagle",
-	"description":	"KodeBeagle Chrome extension. An extension that makes searching selected piece of java code easily searcheable on KodeBeagle. Currently KodeBeagle Supports only JAVA programming language. It does some optimizations like selecting keywords from selected code automatically by filtering 'java.lang.*' and some keywords.",
+	"description":	"Quick access to code samples(in Java) from GitHub by searching on kodebeagle.com",
 	"version":	"0.1",
 	"background":	{
 		"scripts":	["background.js"]
